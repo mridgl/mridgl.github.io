@@ -55,7 +55,7 @@ a {
 .orientation2 {
   display: flex;
   flex-direction: column;
-  align-items: center;
+
 }
 
 @border-color: orange;
@@ -100,7 +100,8 @@ footer {
   background-color: #30E8BF;
   background-size: cover;
   position: absolute;
-  bottom:0;
+  padding-top: 15px;
+  bottom:20;
   width:100%;
   height:100px;
 }
